@@ -1,5 +1,7 @@
 # St's Page
 
+깃허브에서 수정중, pull 연습예정
+
 ## 개발자 목표로 공부중입니다.
 
 ### 아직 부족한 점이 많으니 잘부탁드리겠습니다.   
@@ -55,5 +57,3 @@ alert(message);s
 ## Inline code
 
 This web site is using `markedjs/marked`.
-# st's 미니 홈페이지 수정
-aaa
