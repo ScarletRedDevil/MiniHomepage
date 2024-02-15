@@ -9,5 +9,6 @@
 - 장바구니 이력
 ## 소개 페이지 추가
 - about.md 추가
+- about.md 수정중
 ## 내비게이션 추가
 - navigaion.md 파일 작성 시작
