@@ -11,3 +11,4 @@
 - about.md 추가
 ## 내비게이션 추가
 - navigaion.md 파일 작성 시작
+- navigation.md 수정
