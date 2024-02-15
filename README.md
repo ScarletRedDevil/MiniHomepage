@@ -13,3 +13,6 @@
 ## 내비게이션 추가
 - navigaion.md 파일 작성 시작
 - navigation.md 수정
+
+## Footer 추가
+- footer.md 파일 생성
